@@ -1,0 +1,10 @@
+ID,Date,Description,Amount,Type,Category
+2,2026-08-20,groceries,500.0,Expense,Food
+3,2026-08-20,bus,200.0,Expense,Transport
+4,2026-08-20,cloths,1000.0,Expense,Shopping
+6,2026-08-20,test,10.0,Expense,Other
+7,2026-08-20,salary,10000.0,Income,Salary
+8,2026-08-20,rent,10.0,Expense,Bills
+9,2026-08-21,salary,50000.0,Income,Salary
+10,2026-08-21,rent,15000.0,Expense,Bills
+12,2026-08-21,shopping,3000.0,Expense,Shopping
